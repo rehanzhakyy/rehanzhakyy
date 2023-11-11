@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raelhan&label=Profile%20views&color=0e75b6&style=flat" alt="raelhan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kayakkenall" target="blank"><img src="https://img.shields.io/twitter/follow/kayakkenall?logo=twitter&style=for-the-badge" alt="kayakkenall" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/raihanzhaky" target="blank"><img src="https://img.shields.io/linkedin/follow/raihanzhaky?logo=linkedin&style=for-the-badge" alt="kayakkenall" /></a> </p>
 
 - 🔭 I’m currently working at ***Infinite Learning*** as ***Mobile Application Mentor***
 
