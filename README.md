@@ -26,17 +26,6 @@ Here are some ideas to get you started:
 
 <br>
 
-> ***Connect With Me:***
-<p align="left">
-
-<a href="www.linkedin.com/in/raihanzhaky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ree" height="30" width="40" /></a>
-<a href="https://instagram.com/rehanzhakyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ree" height="30" width="40" /></a>
-<a href="https://twitter.com/kayakkenall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ree" height="30" width="40" /></a>
-
-</p>
-
-<br>
-
 > ***Most Used Language***
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raelhan&show_icons=true&locale=en&layout=compact" alt="ree" /></p>
 <br>
