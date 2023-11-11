@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raelhan&label=Profile%20views&color=129e00&style=plastic" alt="ree" /> </p>
 
-> 🔭 I’m currently working at ***Infinite Learning*** as ***Mobile Application Mentor***
-> 📫 How to reach me **hannn9491@gmail.com**
-> 🌱 I’m currently learning Mobile Application Dev
-> 😄 Pronouns: *He/Him*
+> 🔭 I’m currently working at ***Infinite Learning*** as ***Mobile Application Mentor*** <br>
+> 📫 How to reach me **hannn9491@gmail.com** <br>
+> 🌱 I’m currently learning Mobile Application Dev <br>
+> 😄 Pronouns: *He/Him* <br>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
