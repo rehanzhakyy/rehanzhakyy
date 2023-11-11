@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 > ***About***
 - 🔭 I’m currently working at ***Infinite Learning*** as ***Mobile Application Mentor***
 - 📫 How to reach me **hannn9491@gmail.com**
-- 🌱 I’m currently learning Mobile Application Dev
-- 😄 Pronouns: *He/Him*
+- 🌱 I’m currently learning ***Mobile Application Dev***
+- 😄 Pronouns: ***He/Him***
 
 <br>
 
