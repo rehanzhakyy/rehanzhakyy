@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: *He/Him*
 
 <br>
+
 > ***Connect With Me:***
 <p align="left">
 
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
+
 > ***Most Used Language***
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raelhan&show_icons=true&locale=en&layout=compact" alt="ree" /></p>
 <br>
