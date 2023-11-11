@@ -5,28 +5,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👨‍💻 You can also check out my portfolio at []()
 --> 
 
-<h1 align="center">Hi 👋, I'm Ree</h1>
-<h3 align="center"> Supp!?</h3>
+<h1 align="center">Hi 👋, I'm Ree, Sup?</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raelhan&label=Profile%20views&color=129e00&style=plastic" alt="ree" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=raelhan&label=Profile%20views&color=129e00&style=plastic" alt="ree" /> </p>
 
-- 👨‍💻 You can also check out my portfolio at [**Wait For This**]()
-
+- 🔭 I’m currently working at *Infinite Learning* as *Mobile Application Mentor*
 - 📫 How to reach me **hannn9491@gmail.com**
-
-- ⚡ Fun fact **I think I am handsome xixi**
-
-- 🌱 I’m currently learning 
-
+- 🌱 I’m currently learning Mobile Application Dev
+- 😄 Pronouns: *He/Him*
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
