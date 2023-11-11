@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> -->
 
-<h1 align="center">Hi 👋, I'm Raihan Zhaky Alhafizh</h1>
+<h1 align="center">Hi 👋, I'm Ree</h1>
 <h3 align="center"> Panggil aja Ree</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
-<img align="right" alt="Coding" width="250" height="400" src="byu.jpg">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=raelhan&label=Profile%20views&color=129e00&style=plastic" alt="ree" /> </p>
 
-- 👨‍💻 You can also check out my portfolio at [https://bayu1s.github.io/](https://bayu1s.github.io/)
+- 👨‍💻 You can also check out my portfolio at []()
 
 - 📫 How to reach me **hannn9491@gmail.com**
 
