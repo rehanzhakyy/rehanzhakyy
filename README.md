@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Mobile Application Dev
 - 😄 Pronouns: *He/Him*
 
-
+<br><br><br>
 > ***Connect With Me:***
 <p align="left">
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 </p>
 
-
+<br><br><br>
 > ***Most Used Language***
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raelhan&show_icons=true&locale=en&layout=compact" alt="ree" /></p>
 <br>
